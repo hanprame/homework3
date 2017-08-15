@@ -1,0 +1,24 @@
+Answers for the following questions
+
+Question#1: before the <body> tag
+Question#2: No.
+Question#3: The third way is internal stylesheet
+Question#4: 
+Advantages: (1) useful if you want to test and preview changes(2)useful for quick fixes(3) lower HTTP requests
+Disadvantages: (1) can over-ride things you didn'y intend them to(2) if you want all your paragraphs to have the font 
+family "Arial"
+you have to add an inline style to each <p> tag in your document.
+Question#5: 
+Advantages: (1) smaller size of html pages and cleaner structure (2) faster loading speed (3) same css file can 
+be used on multiple pages
+Disadvantages: (1) until external css is loaded, the page may not be rendered correctly.
+source: https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css
+Question#6: Light Steel Blue
+Question#7: 
+Red:       rgb (255,0,0)
+Green:    rgb (0,255,0)
+Blue       rgb (0,0,255)
+Question#8: As the colors rgb values approach ff, the color become darker; and as the color values approach 00, the
+color become lighter.
+- - - unfinished
+upto Question#15
